@@ -8,7 +8,7 @@ PLEASE fix POM to use Lambdas:
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
 
-<h3>Heading level 3
+<h3>
           <configuration>
             <source>1.8</source>
             <target>1.8</target>
