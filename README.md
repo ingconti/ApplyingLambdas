@@ -16,4 +16,16 @@ PLEASE fix POM to use Lambdas:
           
         
           
+see in particular:
 
+
+    Effect eff1 = (p) -> {
+        p.moveRight();
+    };
+
+    Effect eff2 = (p) -> {
+        p.moveRight();
+        p.moveUp();
+        p.moveRight();
+
+    };
