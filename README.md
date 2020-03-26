@@ -16,7 +16,7 @@ PLEASE fix POM to use Lambdas:
           
         
           
-see in particular:
+CODE: see in particular:
 
 
     Effect eff1 = (p) -> {
